@@ -1,0 +1,27 @@
+@charset "utf-8";
+body {
+	background-color:#8aa899;
+}
+.pagebox{
+    margin: 10%;
+	background:white;
+	border-color:#f2d349;
+	border-style:solid;
+}
+.minibox{
+	margin:5%;
+}
+header {
+	text-align:center;
+    background-color: #f2d349;
+    color: #5c6e58;
+    font-size: 40pt;
+    font-family: impact;
+    padding-left: 5px;
+}
+a{font-size: 20pt;}
+.title{
+	color:red;
+	font-size:70pt;
+	text-align:center;
+}
